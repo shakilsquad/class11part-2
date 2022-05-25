@@ -1,0 +1,196 @@
+.main-website{
+    max-width: 1350px;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+}
+/* menu section  */
+.main-menu {
+    background: #34495e;
+    padding: 80px 0px;
+}
+.main-menu ul li{
+    display: inline-block;
+}
+
+.main-menu ul li a {
+    display: inline-block;
+    text-decoration: none;
+    background: #e67e22;
+    color: black;
+    padding: 5px 10px;
+    margin: 0px 7px;
+    font-size: 20px;
+}
+.main-menu ul li a:hover {
+    background: #f1af75;
+}
+.main-menu0 ul li {
+    margin: -16px 30px;
+}
+.main-menu ul:nth-child(1) .mmmm {
+    margin: 3px;
+    margin-top: 0px;
+}
+.main-menu1 {
+    display: inline-block;
+    width: 10px;
+    height: 30px;
+    background: #fff;
+}
+.main-menu11 {
+    color: #e67e22;
+    margin: -15px 0px;
+}
+/* service section */
+.services{
+    background: #e1e1e1;
+}
+.services div .services2a {
+    font-size: 65px;
+    border-bottom: 8px dashed;
+}
+.icons{
+    font-size: 100px;
+}
+.services2b{
+    color: #4c0505;
+}
+.services2c {
+    width: 1000px;
+    height: 450px;
+    /* border: 5px solid black; */
+    margin: auto;
+}
+.web {
+    background: #eee7e7;
+    position: relative;
+    top: 38px;
+    padding: 20px 20px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 25px black;
+}
+.services2c .web:hover {
+    background: rgba(0, 0, 255, .5);
+    transition: .9s;
+}
+.dig {
+    background: #eee7e7;
+    padding: 20px 20px;
+    padding-bottom: 58px;
+    margin: 0px 30px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 25px black;
+    position: relative;
+}
+.services2c .dig:hover {
+    background: rgba(0, 0, 255, .5);
+    transition: .9s;
+}
+.gra {
+    background: #eee7e7;
+    padding: 20px 20px;
+    padding-bottom: 58px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 25px black;
+}
+.services2c .gra:hover {
+    background: rgba(0, 0, 255, .5);
+    transition:.9s;
+}
+/* jillur rahman  */
+.jillur{
+    background: #9b59b6;
+    position: relative;
+}
+.jillur .ji1{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #e67e22;
+    background: #34495e;
+}
+.jillur .ji2{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #e67e22;
+    position: relative;
+    text-align: center;
+}
+.jillur .ji2 img{
+    max-width: 100%;
+    border-radius: 50%;
+}
+.ji6 {
+    position: absolute;
+    visibility: hidden;
+    height: 145px;
+    width: 145px;
+    border-radius: 50%;
+    display: inline-block;
+    right: 0px;
+}
+.ji2 .ji6 span {
+    margin: 64px 0;
+    display: inline-block;
+}
+.ji2:hover .ji6{
+    background: rgba(81, 255, 0, 0.9);
+    visibility: visible;
+    opacity: .5;
+    transition: .9s;
+
+}
+.jillur .ji4{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #e67e22;
+    background: #34495e;
+    margin-top: 10px;
+}
+.jillur .ji5 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #e67e22;
+    background: #34495e;
+    position: absolute;
+    top: 70px;
+    left: 260px;
+}
+.jillur .ji3 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: #e67e22;
+    background: #34495e;
+    position: absolute;
+    top: 70px;
+    right: 260px;
+}
+.jillur input{
+    border-radius: 20px;
+    margin: 10px 0px;
+}
+.jillur button {
+    padding: 4px 21px;
+    font-size: 23px;
+    background: #9b59b6;
+    border: 2px solid #502940;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+.jillur button:hover{
+    background: #fff;
+    color: #502940;
+}
+/* footer  */
+.foot{
+    background: #2c3e50;
+}
